@@ -28,10 +28,6 @@ import { experiences } from "../constants";
 
 import CTA from "../components/CTA";
 
-
-import Typed from "react-typed";
-
-
 const SkillIcon = ({ imageUrl, name }) => (
   <div className='block-container w-20 h-20' key={name}>
     <div className='btn-back rounded-xl' />
@@ -79,17 +75,7 @@ const About = () => {
       <span className="blue-gradient_text 
       font-semibold drop-shadow">
         {" "}
-        <Typed
-          strings={[
-            "Shambhavi",
-            "a Programmer",
-            " a Game Developer",
-            " a Web Developer",
-          ]}
-          typeSpeed={150}
-          backSpeed={100}
-          loop
-        />
+        Shambhavi
         </span>
 
       </h1>
