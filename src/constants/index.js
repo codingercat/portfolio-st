@@ -111,7 +111,7 @@ export const experiences = [
         iconBg: "#fbc3bc",
         date: "Jan 2021 - Current",
         points: [
-            "Qualified State Level Hackathon conducted by IIC,DCRUST in association with iHub Divysamparak,IIT Roorkee.",
+            "Qualified State Level Hackathon conducted by IIC,DCRUST in association with iHub Divysampark,IIT Roorkee.",
             "Attended 40+ workshops related to startup building and community growth.",
             
         ],
